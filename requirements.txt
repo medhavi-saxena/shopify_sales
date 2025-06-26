@@ -1,6 +1,7 @@
-streamlit
-pandas
-matplotlib
-seaborn
-scipy
-difflib
+streamlit==1.26.0
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+scipy==1.10.1
+# difflib REMOVED – it's part of the stdlib
+# aiobotocore – remove or specify a proper version if needed
